@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ]
+  ],
+  "legacy_uid": "fe9a0368-9adf-082c-b7e6-bea1c159cd04",
+  "instructors": {
+    "content": [
+      "802c1474-03bd-08cb-bf2b-230180a5cf37"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d8d81944-82ee-a424-103c-3f54758e0bc0",
+    "website": "4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004"
+  },
+  "course_title": "Selected Topics in Architecture: Architecture from 1750 to the Present",
+  "course_description": "This class is a general study of modern architecture as a response to important technological, cultural, environmental, aesthetic, and theoretical challenges after the European Enlightenment. It focuses on the theoretical, historiographic, and design approaches to architectural problems encountered in the age of industrial and post-industrial expansion across the globe, with specific attention to the dominance of European modernism in setting the agenda for the discourse of a global modernity at large. It explores modern architectural history through thematic exposition rather than as a simple chronological succession of ideas.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.645",
+  "course_image_thumbnail": {
+    "content": "e7d6180f-1cd5-d562-00ec-b5cda69ee504",
+    "website": "4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "bc7764bc-5736-4bc1-899c-ce5daf8bb191",
+  "site_short_id": "4.645-fall-2004",
+  "title": "Course Metadata"
+}
